@@ -1,0 +1,724 @@
+2021/11/13 22:15:54 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'nvOpzp;...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'nvOpzp;...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'nv...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2021/11/13 22:18:35 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'nvOpzp;...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'nvOpzp;...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'nv...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2021/11/15 03:39:11 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit%27
+---
+2021/11/15 03:41:55 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FMedical%27
+---
+2021/11/18 15:49:21 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FMedical%27
+---
+2021/11/24 03:13:33 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site/Recruit'A=0
+---
+2021/11/25 03:58:46 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Training'(9,,.x0)]]}". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Training'(9,,.x...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Training'(9,,.x...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Training'(...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Training%27(9,,.x0)]]}
+---
+2021/11/28 01:38:36 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit%27
+---
+2021/11/29 18:19:12 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical'[0]
+---
+2021/11/29 18:19:13 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ""><script >alert(String.fromCharCode(88,83,83))</script>". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('"><script >aler...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r="><script%20>alert(String.fromCharCode(88,83,83))</script>
+---
+2021/11/29 18:19:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "/etc/passwd". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('/etc/passwd')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=/etc/passwd
+---
+2021/11/29 18:19:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "Http://Www.Google.Com". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Http://Www.Goog...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=Http%3a%2f%2fWww.Google.Com
+---
+2021/11/30 11:22:45 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical%27
+---
+2021/11/30 12:48:37 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'[0]
+---
+2021/11/30 12:48:38 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ""><script >alert(String.fromCharCode(88,83,83))</script>". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('"><script >aler...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r="><script%20>alert(String.fromCharCode(88,83,83))</script>
+---
+2021/11/30 12:48:40 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "/etc/passwd". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('/etc/passwd')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=/etc/passwd
+---
+2021/11/30 12:48:41 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "Http://Www.Google.Com". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Http://Www.Goog...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=Http%3a%2f%2fWww.Google.Com
+---
+2021/12/01 21:45:29 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site%2FRecruit'A=0
+---
+2021/12/03 14:06:09 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit%27
+---
+2021/12/03 14:26:01 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'[0]
+---
+2021/12/04 04:05:19 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'
+---
+2021/12/04 19:30:05 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'
+---
+2021/12/04 23:06:55 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'nvOpzp;...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'nvOpzp;...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'nv...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2021/12/04 23:53:49 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical'
+---
+2021/12/07 00:27:20 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit%27
+---
+2021/12/08 07:27:18 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'[0]
+---
+2021/12/08 07:27:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ""><script >alert(String.fromCharCode(88,83,83))</script>". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('"><script >aler...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r="><script%20>alert(String.fromCharCode(88,83,83))</script>
+---
+2021/12/08 07:27:28 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "/etc/passwd". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('/etc/passwd')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=/etc/passwd
+---
+2021/12/08 07:27:34 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "Http://Www.Google.Com". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Http://Www.Goog...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=Http%3a%2f%2fWww.Google.Com
+---
+2021/12/08 07:38:08 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site%2FRecruit'A=0
+---
+2021/12/08 10:24:19 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'
+---
+2021/12/08 10:30:50 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'[0]
+---
+2021/12/08 10:30:53 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ""><script >alert(String.fromCharCode(88,83,83))</script>". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('"><script >aler...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r="><script%20>alert(String.fromCharCode(88,83,83))</script>
+---
+2021/12/08 10:30:57 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "/etc/passwd". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('/etc/passwd')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=/etc/passwd
+---
+2021/12/08 10:31:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "Http://Www.Google.Com". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Http://Www.Goog...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=Http%3a%2f%2fWww.Google.Com
+---
+2021/12/08 10:38:25 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'[0]
+---
+2021/12/08 10:38:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ""><script >alert(String.fromCharCode(88,83,83))</script>". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('"><script >aler...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r="><script%20>alert(String.fromCharCode(88,83,83))</script>
+---
+2021/12/08 10:38:34 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "/etc/passwd". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('/etc/passwd')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=/etc/passwd
+---
+2021/12/08 10:38:37 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "Http://Www.Google.Com". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Http://Www.Goog...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=Http%3a%2f%2fWww.Google.Com
+---
+2021/12/08 10:47:16 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'[0]
+---
+2021/12/08 10:47:19 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ""><script >alert(String.fromCharCode(88,83,83))</script>". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('"><script >aler...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r="><script%20>alert(String.fromCharCode(88,83,83))</script>
+---
+2021/12/08 10:47:21 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "/etc/passwd". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('/etc/passwd')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=/etc/passwd
+---
+2021/12/08 10:47:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "Http://Www.Google.Com". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Http://Www.Goog...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=Http%3a%2f%2fWww.Google.Com
+---
+2021/12/08 11:40:09 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site/Recruit'A=0
+---
+2021/12/09 01:54:20 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical'[0]
+---
+2021/12/10 07:07:19 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site%2FRecruit'A=0
+---
+2021/12/12 03:20:10 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site%2FRecruit'A=0
+---
+2021/12/14 10:50:07 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical'
+---
+2021/12/16 20:03:55 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical'[0]
+HTTP_REFERER=https://e-bfbms.com/web/index.php?r=Site/Medical'[0]
+---
+2021/12/16 20:04:19 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "/etc/passwd". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('/etc/passwd')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=/etc/passwd
+HTTP_REFERER=https://e-bfbms.com/web/index.php?r=/etc/passwd
+---
+2021/12/16 20:04:19 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ""><script >alert(String.fromCharCode(88,83,83))</script>". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('"><script >aler...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r="><script%20>alert(String.fromCharCode(88,83,83))</script>
+HTTP_REFERER=https://e-bfbms.com/web/index.php?r="><script >alert(String.fromCharCode(88,83,83))</script>
+---
+2021/12/16 20:04:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "http://www.google.com ". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('http://www.goog...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/web/index.php?r=http%3a%2f%2fwww.google.com+
+HTTP_REFERER=https://e-bfbms.com/web/index.php?r=http%3a%2f%2fwww.google.com+
+---
+2021/12/18 00:10:10 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical'A=0
+HTTP_REFERER=https://e-bfbms.com/web/index.php?r=Site/Medical'A=0
+---
+2021/12/18 00:23:01 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'(9,,.x0)]]}". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'(9,,.x0...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'(9,,.x0...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'(9...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical%27(9,,.x0)]]}
+---
+2021/12/20 07:28:06 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FMedical'
+---
+2021/12/21 02:45:58 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'
+---
+2021/12/22 22:03:15 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FMedical%27
+---
+2021/12/26 04:58:36 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit%27
+---
+2021/12/29 14:21:01 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'[0]". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'[0]')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'[0]')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'[0...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit'[0]
+---
+2021/12/30 09:58:31 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Medical'
+---
+2022/01/02 01:14:32 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site%2FRecruit'A=0
+---
+2022/01/04 00:02:14 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'nvOpzp;...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'nvOpzp;...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'nv...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site/Recruit%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2022/01/06 02:30:34 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'
+---
+2022/01/06 23:15:09 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Recruit'A=0". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Recruit'A=0')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Recruit'A=0')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Recruit'A=...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/web/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/index.php?r=Site%2FRecruit'A=0
+HTTP_REFERER=https://www.e-bfbms.com/web/index.php?r=Site%2FRecruit'A=0
+---
+2022/01/16 11:10:30 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site%2FMedical'
+---
+2022/01/17 19:13:43 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site%2FMedical'
+---
+2022/01/26 12:11:11 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'nvOpzp;...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'nvOpzp;...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'nv...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site/Medical%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2022/01/28 13:34:10 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "Medical'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('Medical'nvOpzp;...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('Medical'nvOpzp;...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/Medical'nv...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site/Medical%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2022/03/08 23:21:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "sSite/Recruit". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('sSite/Recruit')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/demo/web/index.php?r=sSite/Recruit
+HTTP_REFERER=android-app://com.google.android.googlequicksearchbox/
+---
+2022/03/11 10:56:54 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "'". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController(''')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/demo/web/index.php?r='&Site/CheckResult
+---
+2022/03/25 08:50:14 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "'". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController(''')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/demo/web/index.php?r='&Site/CheckResult
+---
+2022/03/27 12:03:11 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController(''nvOpzp; AND 1=...')
+#1 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/demo/web/index.php?r=%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2022/05/08 03:10:53 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "CheckResult'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('CheckResult'nvO...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('CheckResult'nvO...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/CheckResul...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site/CheckResult%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2022/06/16 17:22:46 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "CheckResult'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('CheckResult'nvO...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('CheckResult'nvO...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/CheckResul...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site/CheckResult%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
+2022/06/24 18:42:33 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "CheckResult'nvOpzp; AND 1=1 OR (<'">iKO)),&". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('CheckResult'nvO...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('CheckResult'nvO...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/CheckResul...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site%2fCheckResult%27nvOpzp%3b+AND+1%3d1+OR+(%3c%27%22%3eiKO))%2c%26
+---
+2022/06/30 18:07:30 [error] [exception.CHttpException.404] CHttpException: The system is unable to find the requested action "CheckResult'nvOpzp; AND 1=1 OR (<'">iKO)),". in /var/www/html/yii/framework/web/CController.php:486
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(270): CController->missingAction('CheckResult'nvO...')
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('CheckResult'nvO...')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Site/CheckResul...')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/e-bfbms.com/html/demo/web/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/demo/web/index.php?r=Site/CheckResult%27nvOpzp;%20AND%201=1%20OR%20(%3C%27%22%3EiKO)),
+---
